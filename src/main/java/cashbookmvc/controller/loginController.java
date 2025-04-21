@@ -1,4 +1,4 @@
-package controller;
+package cashbookmvc.controller;
 
 public class loginController {
 
